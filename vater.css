@@ -1,0 +1,107 @@
+.img1{
+    margin: 5px;
+    margin-right: 5px;
+}
+.btn1{
+    margin: 10px;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: darkviolet;
+    
+    
+}
+.nav-link{
+    margin: 10px;
+    font-size: 16px;
+}
+#ali{
+    background-color: seashell;
+}
+#pet{
+    background-image: url("image/animal2.webp ");
+}
+.heading{
+    margin: 15px;
+    font-size: 60px;
+    padding-right: 20px;
+}
+.hd{
+    margin right:15px ;
+    padding: 5px;
+    
+}
+#hd2{
+    color:blue;
+    margin: 5px;
+    margin-top: 5px;
+    padding-top: 10px;
+}
+.hd3{
+    font-size: 50px;
+}
+.img2{
+    border-radius: 40px;
+}
+.hd4{
+    color: coral;
+    margin-top: 5px;
+}
+.hd5{
+    padding: 10px;
+}
+.hd6{
+    padding: 7px;
+}
+.img4{
+    border-radius: 50%;
+}
+.img5{
+    border-radius: 50%;
+    margin-left: 5px;
+}
+#salo{
+    padding: 5px;
+}
+#ahmad{
+    
+}
+#sayyam{
+   padding-right: 10px;
+}
+.hd7{
+    color: crimson;
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.counter-icon{
+   font-size: 40px;
+   color: blue;
+   background-color: aquamarine;
+
+}
+.hd8{
+    color: crimson;
+}
+#team1{
+    background-color: aquamarine;
+}
+#team2{
+    background-color: aquamarine;
+}
+#team3{
+    background-color: aquamarine;
+}
+.team{
+    font-size: 10px;
+}
+#footer{
+    background-color: mediumslateblue;
+    margin: 10px;
+    padding: 10px;
+}
+#system{
+    color: black;
+}
+
+
